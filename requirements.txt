@@ -1,0 +1,10 @@
+google-generativeai
+praw
+newspaper3k
+scikit-learn
+matplotlib
+seaborn
+textblob
+nltk
+pandas
+numpy
